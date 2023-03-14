@@ -1,0 +1,12 @@
+header, main{
+    color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+button{
+    width: 80px;
+
+}
